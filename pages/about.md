@@ -1,7 +1,6 @@
 ---
 layout: misc
 title: About
-image: taean-1.jpeg
 ---
 
 # 2019 SNS 태안 아웃리치
