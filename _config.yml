@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "2019 Taean Outreach"
-description:	       "2019 Onnuri SNS Community Taean Outreach"
+title:		           "2019 태안아웃리치"
+description:	       "2019 Onnuri SNS Community"
 author:              "Together"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
